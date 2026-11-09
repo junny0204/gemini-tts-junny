@@ -1,0 +1,5 @@
+# Gemini TTS for Claude Code — Python 套件（需要 Python 3.11 以上；google-genai 2.34 的要求）
+# 版本固定在實測過的組合：google-genai 3.x 是大改版，mcp 2.x 的 MCPServer API 也和 1.x 不同。
+google-genai==2.34.0
+mcp==2.3.0
+pydantic==2.14.2

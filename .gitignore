@@ -1,0 +1,15 @@
+# 使用者狀態與秘密：絕對不要上傳
+usage.json
+settings.json
+.env
+*.key
+# 產生的檔案
+__pycache__/
+*.pyc
+.venv/
+.venv_old_*/
+backup_*/
+*.part
+*.wav
+tts_output/
+.DS_Store
